@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Large Device](Screenshot_28-11-2025_9422_127.0.0.1.jpeg)
-![Small Device](127.0.0.1_5500_designs_news-homepage_index.html.png)
+![Large Device](./assets/images/Screenshot_28-11-2025_9422_127.0.0.1.jpeg)
+![Small Device](./assets/images/127.0.0.1_5500_designs_news-homepage_index.html.png)
 
 ### Links
 
-- Solution URL: [Solution URL ](https://github.com/ABU-BAKAR-S/Frontend-Mentor-News-Homepage)
 - Live Site URL: [ Live Site URL](https://abu-bakar-s.github.io/Frontend-Mentor-News-Homepage/)
+- Solution URL: [Solution URL ](https://github.com/ABU-BAKAR-S/Frontend-Mentor-News-Homepage)
 
 ## My process
 
